@@ -41,12 +41,12 @@ editing log :
 
 lkoiescg2031
 OS: windows 10
-IDE: visualstudio2019, unreal engine
+IDE: visualstudio 2019 16.3.10, unreal engine 4.23.1
 DOCS: markdown
 
 CGM
 OS: windows 10
-IDE: 
+TOOL: 
 
 TESTING
 OS :
@@ -60,14 +60,12 @@ hardware spec :
 
 장르: TPS, 로그라이크, 
 
-
-
 # 게임 시스템
-
-
 
 # 플레이어
 
 # 몬스터
 
 # 배경
+
+# 기타 참조
